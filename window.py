@@ -1,0 +1,5 @@
+import gtk, pygtk;
+
+class Window:
+    def __init__(self):
+        pass
